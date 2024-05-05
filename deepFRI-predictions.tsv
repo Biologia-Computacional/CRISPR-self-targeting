@@ -1,0 +1,648 @@
+cluster	protein_id	GO_root	GO_term	description	score
+C4	WP_015313507.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.699656546115875
+C4	WP_015313507.1	Biological Process	GO:0043170	macromolecule metabolic process	0.638370275497437
+C4	WP_015313507.1	Biological Process	GO:0044260	cellular macromolecule metabolic process	0.596331715583801
+C4	WP_015313507.1	Biological Process	GO:0034641	cellular nitrogen compound metabolic process	0.543231785297394
+C4	WP_015313507.1	Biological Process	GO:0044238	primary metabolic process	0.542782485485077
+C4	WP_015313507.1	Biological Process	GO:0071704	organic substance metabolic process	0.508872866630554
+C1	WP_002211720.1	Biological Process	GO:0044237	cellular metabolic process	0.975777149200439
+C1	WP_002211720.1	Biological Process	GO:0044238	primary metabolic process	0.968771040439606
+C1	WP_002211720.1	Biological Process	GO:0071704	organic substance metabolic process	0.968329131603241
+C1	WP_002211720.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.96339339017868
+C1	WP_002211720.1	Biological Process	GO:0043170	macromolecule metabolic process	0.885543763637543
+C1	WP_002211720.1	Biological Process	GO:0034641	cellular nitrogen compound metabolic process	0.882838606834412
+C1	WP_002211720.1	Biological Process	GO:1901576	organic substance biosynthetic process	0.854377567768097
+C1	WP_002211720.1	Biological Process	GO:0044260	cellular macromolecule metabolic process	0.853431582450867
+C1	WP_002211720.1	Biological Process	GO:0009058	biosynthetic process	0.849213123321533
+C1	WP_002211720.1	Biological Process	GO:1901564	organonitrogen compound metabolic process	0.775687754154205
+C1	WP_002211720.1	Biological Process	GO:0044271	cellular nitrogen compound biosynthetic process	0.758277416229248
+C1	WP_002211720.1	Biological Process	GO:0044249	cellular biosynthetic process	0.732013463973999
+C1	WP_002211720.1	Biological Process	GO:0044267	cellular protein metabolic process	0.697153866291046
+C1	WP_002211720.1	Biological Process	GO:0019538	protein metabolic process	0.689728200435638
+C1	WP_002211720.1	Biological Process	GO:0009059	macromolecule biosynthetic process	0.68165785074234
+C1	WP_002211720.1	Biological Process	GO:0034645	cellular macromolecule biosynthetic process	0.675668358802795
+C1	WP_002211720.1	Biological Process	GO:1901360	organic cyclic compound metabolic process	0.660610318183899
+C1	WP_002211720.1	Biological Process	GO:0046483	heterocycle metabolic process	0.64149820804596
+C1	WP_002211720.1	Biological Process	GO:0006139	nucleobase-containing compound metabolic process	0.638516366481781
+C1	WP_002211720.1	Biological Process	GO:0010467	gene expression	0.617698609828949
+C1	WP_002211720.1	Biological Process	GO:0034654	nucleobase-containing compound biosynthetic process	0.5704625248909
+C1	WP_002211720.1	Biological Process	GO:0006725	cellular aromatic compound metabolic process	0.56378173828125
+C1	WP_002211720.1	Biological Process	GO:1901566	organonitrogen compound biosynthetic process	0.508226931095123
+C3	WP_061105325.1	Biological Process	GO:0043170	macromolecule metabolic process	0.571106791496277
+C3	WP_061105325.1	Biological Process	GO:0044085	cellular component biogenesis	0.562976598739624
+C3	WP_061105325.1	Biological Process	GO:0071704	organic substance metabolic process	0.54797488451004
+C3	WP_023552297.1	Biological Process	GO:0071704	organic substance metabolic process	0.697620213031769
+C3	WP_023552297.1	Biological Process	GO:0044238	primary metabolic process	0.65679806470871
+C3	WP_023552297.1	Biological Process	GO:0044237	cellular metabolic process	0.552633106708527
+C3	WP_031694761.1	Biological Process	GO:0044085	cellular component biogenesis	0.573036789894104
+C3	WP_031694761.1	Biological Process	GO:0043170	macromolecule metabolic process	0.534563362598419
+C3	WP_031694761.1	Biological Process	GO:0016043	cellular component organization	0.514464616775513
+C3	WP_039194677.1	Biological Process	GO:0071704	organic substance metabolic process	0.705457508563995
+C3	WP_039194677.1	Biological Process	GO:0044238	primary metabolic process	0.666427314281464
+C3	WP_039194677.1	Biological Process	GO:0044237	cellular metabolic process	0.553189814090729
+C3	WP_039194677.1	Biological Process	GO:1901564	organonitrogen compound metabolic process	0.510761320590973
+C3	WP_039194677.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.50982528924942
+C3	WP_072217226.1	Biological Process	GO:0071704	organic substance metabolic process	0.726469933986664
+C3	WP_072217226.1	Biological Process	GO:0044238	primary metabolic process	0.703527748584747
+C3	WP_072217226.1	Biological Process	GO:0043170	macromolecule metabolic process	0.565849781036377
+C3	WP_072217226.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.56456983089447
+C3	WP_072217226.1	Biological Process	GO:1901564	organonitrogen compound metabolic process	0.543757081031799
+C3	WP_072217226.1	Biological Process	GO:0044237	cellular metabolic process	0.522032499313355
+C2	WP_012951232.1	Biological Process	GO:0044237	cellular metabolic process	0.732675135135651
+C2	WP_012951232.1	Biological Process	GO:0071704	organic substance metabolic process	0.612941086292267
+C2	WP_012951232.1	Biological Process	GO:0044238	primary metabolic process	0.590239822864533
+C2	WP_012951232.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.557428300380707
+C2	WP_012951232.1	Biological Process	GO:0034641	cellular nitrogen compound metabolic process	0.526289820671082
+C0	WP_002211721.1	Biological Process	GO:0044237	cellular metabolic process	0.843710601329803
+C0	WP_002211721.1	Biological Process	GO:0071704	organic substance metabolic process	0.843130826950073
+C0	WP_002211721.1	Biological Process	GO:0044238	primary metabolic process	0.82732892036438
+C0	WP_002211721.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.787896931171417
+C0	WP_002211721.1	Biological Process	GO:0034641	cellular nitrogen compound metabolic process	0.663896262645721
+C0	WP_002211721.1	Biological Process	GO:0043170	macromolecule metabolic process	0.638566493988037
+C0	WP_002211721.1	Biological Process	GO:0044260	cellular macromolecule metabolic process	0.615579724311829
+C0	WP_002211721.1	Biological Process	GO:1901360	organic cyclic compound metabolic process	0.603220164775848
+C0	WP_002211721.1	Biological Process	GO:0046483	heterocycle metabolic process	0.590970516204834
+C0	WP_002211721.1	Biological Process	GO:0006725	cellular aromatic compound metabolic process	0.555202126502991
+C0	WP_002211721.1	Biological Process	GO:1901564	organonitrogen compound metabolic process	0.53224390745163
+C0	WP_002211721.1	Biological Process	GO:0006139	nucleobase-containing compound metabolic process	0.522659957408905
+C0	WP_002211721.1	Biological Process	GO:1901576	organic substance biosynthetic process	0.509867787361145
+C0	WP_002211721.1	Biological Process	GO:0009058	biosynthetic process	0.503119230270386
+C0	WP_002211721.1	Biological Process	GO:0044249	cellular biosynthetic process	0.501849472522736
+C2	WP_003721261.1	Biological Process	GO:0044237	cellular metabolic process	0.658570230007172
+C2	WP_003721261.1	Biological Process	GO:0044238	primary metabolic process	0.560425817966461
+C2	WP_003721261.1	Biological Process	GO:0071704	organic substance metabolic process	0.541678249835968
+C2	WP_003721261.1	Biological Process	GO:0034641	cellular nitrogen compound metabolic process	0.540564477443695
+C2	WP_003721261.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.502094268798828
+C23	WP_006248181.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.662677645683289
+C23	WP_006248181.1	Biological Process	GO:0044237	cellular metabolic process	0.659250617027283
+C23	WP_006248181.1	Biological Process	GO:0071704	organic substance metabolic process	0.632998108863831
+C23	WP_006248181.1	Biological Process	GO:0044238	primary metabolic process	0.590719342231751
+C23	WP_006248181.1	Biological Process	GO:0043170	macromolecule metabolic process	0.588251113891602
+C23	WP_006248181.1	Biological Process	GO:0044260	cellular macromolecule metabolic process	0.50962907075882
+C26	WP_023127442.1	Biological Process	GO:0043170	macromolecule metabolic process	0.875248551368713
+C26	WP_023127442.1	Biological Process	GO:0010467	gene expression	0.860380113124847
+C26	WP_023127442.1	Biological Process	GO:0044237	cellular metabolic process	0.859679758548737
+C26	WP_023127442.1	Biological Process	GO:0009059	macromolecule biosynthetic process	0.847056210041046
+C26	WP_023127442.1	Biological Process	GO:0044260	cellular macromolecule metabolic process	0.843114674091339
+C26	WP_023127442.1	Biological Process	GO:0034645	cellular macromolecule biosynthetic process	0.839146554470062
+C26	WP_023127442.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.838137805461884
+C26	WP_023127442.1	Biological Process	GO:0044238	primary metabolic process	0.821672856807709
+C26	WP_023127442.1	Biological Process	GO:0071704	organic substance metabolic process	0.816661953926086
+C26	WP_023127442.1	Biological Process	GO:0034641	cellular nitrogen compound metabolic process	0.797326445579529
+C26	WP_023127442.1	Biological Process	GO:0044249	cellular biosynthetic process	0.748604416847229
+C26	WP_023127442.1	Biological Process	GO:0009058	biosynthetic process	0.742248952388763
+C26	WP_023127442.1	Biological Process	GO:1901576	organic substance biosynthetic process	0.711838662624359
+C26	WP_023127442.1	Biological Process	GO:0044271	cellular nitrogen compound biosynthetic process	0.687709629535675
+C26	WP_023127442.1	Biological Process	GO:0019538	protein metabolic process	0.598365068435669
+C26	WP_023127442.1	Biological Process	GO:0090304	nucleic acid metabolic process	0.570077419281006
+C26	WP_023127442.1	Biological Process	GO:0016070	RNA metabolic process	0.55371481180191
+C26	WP_023127442.1	Biological Process	GO:0006139	nucleobase-containing compound metabolic process	0.54080605506897
+C26	WP_023127442.1	Biological Process	GO:0044267	cellular protein metabolic process	0.539030373096466
+C26	WP_023127442.1	Biological Process	GO:0006725	cellular aromatic compound metabolic process	0.531729221343994
+C26	WP_023127442.1	Biological Process	GO:1901360	organic cyclic compound metabolic process	0.530251502990723
+C26	WP_023127442.1	Biological Process	GO:0043043	peptide biosynthetic process	0.529377341270447
+C26	WP_023127442.1	Biological Process	GO:0006412	translation	0.524174928665161
+C26	WP_023127442.1	Biological Process	GO:0046483	heterocycle metabolic process	0.5168576836586
+C26	WP_023127442.1	Biological Process	GO:0006518	peptide metabolic process	0.5055131316185
+C27	WP_033944539.1	Biological Process	GO:0071704	organic substance metabolic process	0.945397794246674
+C27	WP_033944539.1	Biological Process	GO:0044238	primary metabolic process	0.9205442070961
+C27	WP_033944539.1	Biological Process	GO:0044237	cellular metabolic process	0.886692702770233
+C27	WP_033944539.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.847149848937988
+C27	WP_033944539.1	Biological Process	GO:1901360	organic cyclic compound metabolic process	0.504933655261993
+C27	WP_003098495.1	Biological Process	GO:0071704	organic substance metabolic process	0.907275259494782
+C27	WP_003098495.1	Biological Process	GO:0044238	primary metabolic process	0.89651083946228
+C27	WP_003098495.1	Biological Process	GO:0044237	cellular metabolic process	0.798876106739044
+C27	WP_003098495.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.765376091003418
+C16	WP_021368246.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.910263478755951
+C16	WP_021368246.1	Biological Process	GO:0071704	organic substance metabolic process	0.892897546291351
+C16	WP_021368246.1	Biological Process	GO:0044237	cellular metabolic process	0.869389474391937
+C16	WP_021368246.1	Biological Process	GO:0044238	primary metabolic process	0.838545501232147
+C16	WP_021368246.1	Biological Process	GO:0034641	cellular nitrogen compound metabolic process	0.832474112510681
+C16	WP_021368246.1	Biological Process	GO:0043170	macromolecule metabolic process	0.785655081272125
+C16	WP_021368246.1	Biological Process	GO:1901360	organic cyclic compound metabolic process	0.705879688262939
+C16	WP_021368246.1	Biological Process	GO:0046483	heterocycle metabolic process	0.692663788795471
+C16	WP_021368246.1	Biological Process	GO:0006725	cellular aromatic compound metabolic process	0.666926085948944
+C16	WP_021368246.1	Biological Process	GO:0006139	nucleobase-containing compound metabolic process	0.627797603607178
+C16	WP_021368246.1	Biological Process	GO:0090304	nucleic acid metabolic process	0.570209980010986
+C16	WP_021368246.1	Biological Process	GO:0044260	cellular macromolecule metabolic process	0.518766701221466
+C24	WP_023284987.1	Biological Process	GO:0071704	organic substance metabolic process	0.942832291126251
+C24	WP_023284987.1	Biological Process	GO:0044237	cellular metabolic process	0.942237436771393
+C24	WP_023284987.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.940069735050201
+C24	WP_023284987.1	Biological Process	GO:0009059	macromolecule biosynthetic process	0.932789921760559
+C24	WP_023284987.1	Biological Process	GO:0034641	cellular nitrogen compound metabolic process	0.931897222995758
+C24	WP_023284987.1	Biological Process	GO:0034645	cellular macromolecule biosynthetic process	0.93180912733078
+C24	WP_023284987.1	Biological Process	GO:0043170	macromolecule metabolic process	0.930169403553009
+C24	WP_023284987.1	Biological Process	GO:0032774	RNA biosynthetic process	0.93015992641449
+C24	WP_023284987.1	Biological Process	GO:0044260	cellular macromolecule metabolic process	0.928078174591064
+C24	WP_023284987.1	Biological Process	GO:0044238	primary metabolic process	0.926892638206482
+C24	WP_023284987.1	Biological Process	GO:0010467	gene expression	0.926635503768921
+C24	WP_023284987.1	Biological Process	GO:0046483	heterocycle metabolic process	0.925515234470367
+C24	WP_023284987.1	Biological Process	GO:0016070	RNA metabolic process	0.925320863723755
+C24	WP_023284987.1	Biological Process	GO:0097659	nucleic acid-templated transcription	0.924609661102295
+C24	WP_023284987.1	Biological Process	GO:0006725	cellular aromatic compound metabolic process	0.924454271793366
+C24	WP_023284987.1	Biological Process	GO:0006351	transcription, DNA-templated	0.924454152584076
+C24	WP_023284987.1	Biological Process	GO:0018130	heterocycle biosynthetic process	0.92445296049118
+C24	WP_023284987.1	Biological Process	GO:1901360	organic cyclic compound metabolic process	0.923654198646545
+C24	WP_023284987.1	Biological Process	GO:0019438	aromatic compound biosynthetic process	0.923096299171448
+C24	WP_023284987.1	Biological Process	GO:0051252	regulation of RNA metabolic process	0.922894775867462
+C24	WP_023284987.1	Biological Process	GO:1901362	organic cyclic compound biosynthetic process	0.922841370105743
+C24	WP_023284987.1	Biological Process	GO:1903506	regulation of nucleic acid-templated transcription	0.921324193477631
+C24	WP_023284987.1	Biological Process	GO:2001141	regulation of RNA biosynthetic process	0.921293616294861
+C24	WP_023284987.1	Biological Process	GO:0010468	regulation of gene expression	0.921235084533691
+C24	WP_023284987.1	Biological Process	GO:0090304	nucleic acid metabolic process	0.920889377593994
+C24	WP_023284987.1	Biological Process	GO:0006355	regulation of transcription, DNA-templated	0.91997641324997
+C24	WP_023284987.1	Biological Process	GO:0010556	regulation of macromolecule biosynthetic process	0.919314801692963
+C24	WP_023284987.1	Biological Process	GO:0009058	biosynthetic process	0.918965339660645
+C24	WP_023284987.1	Biological Process	GO:2000112	regulation of cellular macromolecule biosynthetic process	0.918695330619812
+C24	WP_023284987.1	Biological Process	GO:1901576	organic substance biosynthetic process	0.918578565120697
+C24	WP_023284987.1	Biological Process	GO:0009889	regulation of biosynthetic process	0.914787113666534
+C24	WP_023284987.1	Biological Process	GO:0031326	regulation of cellular biosynthetic process	0.91393381357193
+C24	WP_023284987.1	Biological Process	GO:0044249	cellular biosynthetic process	0.913801372051239
+C24	WP_023284987.1	Biological Process	GO:0060255	regulation of macromolecule metabolic process	0.91171783208847
+C24	WP_023284987.1	Biological Process	GO:0019222	regulation of metabolic process	0.907605051994324
+C24	WP_023284987.1	Biological Process	GO:0019219	regulation of nucleobase-containing compound metabolic process	0.90698254108429
+C24	WP_023284987.1	Biological Process	GO:0034654	nucleobase-containing compound biosynthetic process	0.902704358100891
+C24	WP_023284987.1	Biological Process	GO:0006139	nucleobase-containing compound metabolic process	0.902516841888428
+C24	WP_023284987.1	Biological Process	GO:0044271	cellular nitrogen compound biosynthetic process	0.898485660552979
+C24	WP_023284987.1	Biological Process	GO:0031323	regulation of cellular metabolic process	0.893820106983185
+C24	WP_023284987.1	Biological Process	GO:0080090	regulation of primary metabolic process	0.892419815063477
+C24	WP_023284987.1	Biological Process	GO:0051171	regulation of nitrogen compound metabolic process	0.890515148639679
+C24	WP_023284987.1	Biological Process	GO:0050794	regulation of cellular process	0.880197703838348
+C18	WP_000109454.1	Biological Process	GO:0071704	organic substance metabolic process	0.748174786567688
+C18	WP_000109454.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.705524563789368
+C18	WP_000109454.1	Biological Process	GO:0044237	cellular metabolic process	0.696107089519501
+C18	WP_000109454.1	Biological Process	GO:0044238	primary metabolic process	0.68755704164505
+C18	WP_000109454.1	Biological Process	GO:1901564	organonitrogen compound metabolic process	0.568092226982117
+C18	WP_000109454.1	Biological Process	GO:0043170	macromolecule metabolic process	0.537119805812836
+C16	WP_021362725.1	Biological Process	GO:0044237	cellular metabolic process	0.719647705554962
+C16	WP_021362725.1	Biological Process	GO:0071704	organic substance metabolic process	0.714070558547974
+C16	WP_021362725.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.70331335067749
+C16	WP_021362725.1	Biological Process	GO:1901564	organonitrogen compound metabolic process	0.624986529350281
+C16	WP_021362725.1	Biological Process	GO:0044271	cellular nitrogen compound biosynthetic process	0.585216879844666
+C16	WP_021362725.1	Biological Process	GO:0044249	cellular biosynthetic process	0.578973233699799
+C16	WP_021362725.1	Biological Process	GO:1901576	organic substance biosynthetic process	0.577675461769104
+C16	WP_021362725.1	Biological Process	GO:0009058	biosynthetic process	0.575403690338135
+C16	WP_021362725.1	Biological Process	GO:0034641	cellular nitrogen compound metabolic process	0.539577782154083
+C16	WP_021362725.1	Biological Process	GO:1901566	organonitrogen compound biosynthetic process	0.512671113014221
+C19	WP_023548967.1	Biological Process	GO:0009059	macromolecule biosynthetic process	0.990882694721222
+C19	WP_023548967.1	Biological Process	GO:0034645	cellular macromolecule biosynthetic process	0.990509629249573
+C19	WP_023548967.1	Biological Process	GO:0043170	macromolecule metabolic process	0.990014314651489
+C19	WP_023548967.1	Biological Process	GO:0034641	cellular nitrogen compound metabolic process	0.988887250423431
+C19	WP_023548967.1	Biological Process	GO:0044260	cellular macromolecule metabolic process	0.987589299678803
+C19	WP_023548967.1	Biological Process	GO:0044238	primary metabolic process	0.987134039402008
+C19	WP_023548967.1	Biological Process	GO:0071704	organic substance metabolic process	0.986718356609345
+C19	WP_023548967.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.986417055130005
+C19	WP_023548967.1	Biological Process	GO:0044237	cellular metabolic process	0.986102938652039
+C19	WP_023548967.1	Biological Process	GO:0044249	cellular biosynthetic process	0.986083567142487
+C19	WP_023548967.1	Biological Process	GO:0010467	gene expression	0.985668182373047
+C19	WP_023548967.1	Biological Process	GO:0044271	cellular nitrogen compound biosynthetic process	0.9854656457901
+C19	WP_023548967.1	Biological Process	GO:1901576	organic substance biosynthetic process	0.984434902667999
+C19	WP_023548967.1	Biological Process	GO:0009058	biosynthetic process	0.984428405761719
+C19	WP_023548967.1	Biological Process	GO:0006412	translation	0.837235033512116
+C19	WP_023548967.1	Biological Process	GO:0043043	peptide biosynthetic process	0.83395528793335
+C19	WP_023548967.1	Biological Process	GO:0044267	cellular protein metabolic process	0.83251678943634
+C19	WP_023548967.1	Biological Process	GO:0006518	peptide metabolic process	0.831093788146973
+C19	WP_023548967.1	Biological Process	GO:0043604	amide biosynthetic process	0.824365973472595
+C19	WP_023548967.1	Biological Process	GO:0019538	protein metabolic process	0.810181736946106
+C19	WP_023548967.1	Biological Process	GO:1901566	organonitrogen compound biosynthetic process	0.802460253238678
+C19	WP_023548967.1	Biological Process	GO:0043603	cellular amide metabolic process	0.788708508014679
+C19	WP_023548967.1	Biological Process	GO:1901564	organonitrogen compound metabolic process	0.764482140541077
+C21	WP_087094533.1	Biological Process	GO:0044237	cellular metabolic process	0.669309675693512
+C16	WP_074046702.1	Biological Process	GO:0044237	cellular metabolic process	0.71345329284668
+C16	WP_074046702.1	Biological Process	GO:0071704	organic substance metabolic process	0.66921603679657
+C16	WP_074046702.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.615911185741425
+C16	WP_074046702.1	Biological Process	GO:0034641	cellular nitrogen compound metabolic process	0.528887629508972
+C25	WP_002737934.1	Biological Process	GO:0071704	organic substance metabolic process	0.783751964569092
+C25	WP_002737934.1	Biological Process	GO:0044237	cellular metabolic process	0.766744434833527
+C25	WP_002737934.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.737283706665039
+C25	WP_002737934.1	Biological Process	GO:0044238	primary metabolic process	0.681635320186615
+C25	WP_002737934.1	Biological Process	GO:0009058	biosynthetic process	0.596459805965424
+C25	WP_002737934.1	Biological Process	GO:0044249	cellular biosynthetic process	0.59387868642807
+C25	WP_002737934.1	Biological Process	GO:0034641	cellular nitrogen compound metabolic process	0.585624814033508
+C25	WP_002737934.1	Biological Process	GO:1901576	organic substance biosynthetic process	0.575362026691437
+C25	WP_002737934.1	Biological Process	GO:1901564	organonitrogen compound metabolic process	0.547047734260559
+C25	WP_002737934.1	Biological Process	GO:0006725	cellular aromatic compound metabolic process	0.529334723949432
+C25	WP_002737934.1	Biological Process	GO:1901360	organic cyclic compound metabolic process	0.516705095767975
+C17	WP_049956001.1	Biological Process	GO:0044237	cellular metabolic process	0.610373437404633
+C19	WP_031645549.1	Biological Process	GO:0009059	macromolecule biosynthetic process	0.993126153945923
+C19	WP_031645549.1	Biological Process	GO:0034645	cellular macromolecule biosynthetic process	0.992847263813019
+C19	WP_031645549.1	Biological Process	GO:0043170	macromolecule metabolic process	0.992556393146515
+C19	WP_031645549.1	Biological Process	GO:0034641	cellular nitrogen compound metabolic process	0.992125689983368
+C19	WP_031645549.1	Biological Process	GO:0010467	gene expression	0.990877211093903
+C19	WP_031645549.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.99018806219101
+C19	WP_031645549.1	Biological Process	GO:0044260	cellular macromolecule metabolic process	0.990062773227692
+C19	WP_031645549.1	Biological Process	GO:0071704	organic substance metabolic process	0.989253580570221
+C19	WP_031645549.1	Biological Process	GO:0044238	primary metabolic process	0.989155828952789
+C19	WP_031645549.1	Biological Process	GO:0044249	cellular biosynthetic process	0.989071130752564
+C19	WP_031645549.1	Biological Process	GO:0044237	cellular metabolic process	0.989015400409699
+C19	WP_031645549.1	Biological Process	GO:0044271	cellular nitrogen compound biosynthetic process	0.988587498664856
+C19	WP_031645549.1	Biological Process	GO:0009058	biosynthetic process	0.987994432449341
+C19	WP_031645549.1	Biological Process	GO:1901576	organic substance biosynthetic process	0.987792313098908
+C19	WP_031645549.1	Biological Process	GO:0006412	translation	0.88540244102478
+C19	WP_031645549.1	Biological Process	GO:0043043	peptide biosynthetic process	0.883561313152313
+C19	WP_031645549.1	Biological Process	GO:0006518	peptide metabolic process	0.880188465118408
+C19	WP_031645549.1	Biological Process	GO:0043604	amide biosynthetic process	0.874431073665619
+C19	WP_031645549.1	Biological Process	GO:0044267	cellular protein metabolic process	0.865768373012543
+C19	WP_031645549.1	Biological Process	GO:1901566	organonitrogen compound biosynthetic process	0.857711315155029
+C19	WP_031645549.1	Biological Process	GO:0043603	cellular amide metabolic process	0.847621321678162
+C19	WP_031645549.1	Biological Process	GO:0019538	protein metabolic process	0.847400724887848
+C19	WP_031645549.1	Biological Process	GO:1901564	organonitrogen compound metabolic process	0.806015968322754
+C27	WP_003159484.1	Biological Process	GO:0071704	organic substance metabolic process	0.901952862739563
+C27	WP_003159484.1	Biological Process	GO:0044238	primary metabolic process	0.878715097904205
+C27	WP_003159484.1	Biological Process	GO:0044237	cellular metabolic process	0.823226392269135
+C27	WP_003159484.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.692000508308411
+C28	WP_228482420.1	Biological Process	GO:0044237	cellular metabolic process	0.69845187664032
+C28	WP_228482420.1	Biological Process	GO:0050794	regulation of cellular process	0.690843343734741
+C28	WP_228482420.1	Biological Process	GO:0044238	primary metabolic process	0.636617004871368
+C28	WP_228482420.1	Biological Process	GO:0071704	organic substance metabolic process	0.627130210399628
+C28	WP_228482420.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.602839171886444
+C28	WP_228482420.1	Biological Process	GO:0043170	macromolecule metabolic process	0.600074887275696
+C28	WP_228482420.1	Biological Process	GO:0019222	regulation of metabolic process	0.595806539058685
+C28	WP_228482420.1	Biological Process	GO:0044260	cellular macromolecule metabolic process	0.582443535327911
+C28	WP_228482420.1	Biological Process	GO:0060255	regulation of macromolecule metabolic process	0.567799746990204
+C28	WP_228482420.1	Biological Process	GO:0080090	regulation of primary metabolic process	0.565524101257324
+C28	WP_228482420.1	Biological Process	GO:0051171	regulation of nitrogen compound metabolic process	0.556382596492767
+C28	WP_228482420.1	Biological Process	GO:0031323	regulation of cellular metabolic process	0.551620781421661
+C17	WP_023084221.1	Biological Process	GO:0044237	cellular metabolic process	0.608173370361328
+C26	WP_003094501.1	Biological Process	GO:0043170	macromolecule metabolic process	0.900739252567291
+C26	WP_003094501.1	Biological Process	GO:0044237	cellular metabolic process	0.890973746776581
+C26	WP_003094501.1	Biological Process	GO:0010467	gene expression	0.883504629135132
+C26	WP_003094501.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.876661598682404
+C26	WP_003094501.1	Biological Process	GO:0009059	macromolecule biosynthetic process	0.876419603824616
+C26	WP_003094501.1	Biological Process	GO:0034645	cellular macromolecule biosynthetic process	0.870559990406036
+C26	WP_003094501.1	Biological Process	GO:0044260	cellular macromolecule metabolic process	0.864050805568695
+C26	WP_003094501.1	Biological Process	GO:0044238	primary metabolic process	0.862411260604858
+C26	WP_003094501.1	Biological Process	GO:0071704	organic substance metabolic process	0.860600054264069
+C26	WP_003094501.1	Biological Process	GO:0034641	cellular nitrogen compound metabolic process	0.838191568851471
+C26	WP_003094501.1	Biological Process	GO:0044249	cellular biosynthetic process	0.812638342380524
+C26	WP_003094501.1	Biological Process	GO:0009058	biosynthetic process	0.804219782352448
+C26	WP_003094501.1	Biological Process	GO:1901576	organic substance biosynthetic process	0.777373969554901
+C26	WP_003094501.1	Biological Process	GO:0044271	cellular nitrogen compound biosynthetic process	0.750230371952057
+C26	WP_003094501.1	Biological Process	GO:0019538	protein metabolic process	0.646525919437408
+C26	WP_003094501.1	Biological Process	GO:0006725	cellular aromatic compound metabolic process	0.594434559345245
+C26	WP_003094501.1	Biological Process	GO:0006139	nucleobase-containing compound metabolic process	0.589712738990784
+C26	WP_003094501.1	Biological Process	GO:0090304	nucleic acid metabolic process	0.584739446640015
+C26	WP_003094501.1	Biological Process	GO:0016070	RNA metabolic process	0.579985439777374
+C26	WP_003094501.1	Biological Process	GO:1901360	organic cyclic compound metabolic process	0.57845801115036
+C26	WP_003094501.1	Biological Process	GO:0043043	peptide biosynthetic process	0.573623359203339
+C26	WP_003094501.1	Biological Process	GO:0006412	translation	0.568300068378449
+C26	WP_003094501.1	Biological Process	GO:0046483	heterocycle metabolic process	0.566627681255341
+C26	WP_003094501.1	Biological Process	GO:0044267	cellular protein metabolic process	0.558672189712524
+C26	WP_003094501.1	Biological Process	GO:0006518	peptide metabolic process	0.546291828155518
+C26	WP_003094501.1	Biological Process	GO:1901564	organonitrogen compound metabolic process	0.537820518016815
+C20	WP_037974544.1	Biological Process	GO:0044238	primary metabolic process	0.823905050754547
+C20	WP_037974544.1	Biological Process	GO:0071704	organic substance metabolic process	0.816924750804901
+C20	WP_037974544.1	Biological Process	GO:0044237	cellular metabolic process	0.782964289188385
+C20	WP_037974544.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.764176607131958
+C20	WP_037974544.1	Biological Process	GO:0043170	macromolecule metabolic process	0.653922438621521
+C20	WP_037974544.1	Biological Process	GO:0046483	heterocycle metabolic process	0.602157473564148
+C20	WP_037974544.1	Biological Process	GO:1901360	organic cyclic compound metabolic process	0.561917185783386
+C20	WP_037974544.1	Biological Process	GO:0006725	cellular aromatic compound metabolic process	0.516459226608276
+C29	WP_244192637.1	Biological Process	GO:0071704	organic substance metabolic process	0.891119837760925
+C29	WP_244192637.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.881967008113861
+C29	WP_244192637.1	Biological Process	GO:0044238	primary metabolic process	0.874389886856079
+C29	WP_244192637.1	Biological Process	GO:0044237	cellular metabolic process	0.770957887172699
+C29	WP_244192637.1	Biological Process	GO:0043170	macromolecule metabolic process	0.756253302097321
+C30	WP_012914750.1	Biological Process	GO:0071704	organic substance metabolic process	0.575059473514557
+C30	WP_012914750.1	Biological Process	GO:0044237	cellular metabolic process	0.527035295963287
+C30	WP_012914750.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.508597552776337
+C28	WP_228489704.1	Biological Process	GO:0050794	regulation of cellular process	0.720217168331146
+C28	WP_228489704.1	Biological Process	GO:0071704	organic substance metabolic process	0.646375954151154
+C28	WP_228489704.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.634398460388184
+C28	WP_228489704.1	Biological Process	GO:0044238	primary metabolic process	0.630586087703705
+C28	WP_228489704.1	Biological Process	GO:0044237	cellular metabolic process	0.629239201545715
+C28	WP_228489704.1	Biological Process	GO:0043170	macromolecule metabolic process	0.628776550292969
+C28	WP_228489704.1	Biological Process	GO:0044260	cellular macromolecule metabolic process	0.613156616687775
+C28	WP_228489704.1	Biological Process	GO:0019222	regulation of metabolic process	0.578073799610138
+C28	WP_228489704.1	Biological Process	GO:0080090	regulation of primary metabolic process	0.571065306663513
+C28	WP_228489704.1	Biological Process	GO:0060255	regulation of macromolecule metabolic process	0.56025093793869
+C28	WP_228489704.1	Biological Process	GO:0051171	regulation of nitrogen compound metabolic process	0.557142734527588
+C28	WP_228489704.1	Biological Process	GO:0031323	regulation of cellular metabolic process	0.554329514503479
+C17	WP_023103137.1	Biological Process	GO:0044237	cellular metabolic process	0.633518636226654
+C17	WP_023103137.1	Biological Process	GO:0071704	organic substance metabolic process	0.514118492603302
+C17	WP_023103137.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.503333926200867
+C28	WP_228480424.1	Biological Process	GO:0050794	regulation of cellular process	0.749801337718964
+C28	WP_228480424.1	Biological Process	GO:0071704	organic substance metabolic process	0.729160308837891
+C28	WP_228480424.1	Biological Process	GO:0044238	primary metabolic process	0.713368892669678
+C28	WP_228480424.1	Biological Process	GO:0044237	cellular metabolic process	0.712163984775543
+C28	WP_228480424.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.707092642784119
+C28	WP_228480424.1	Biological Process	GO:0043170	macromolecule metabolic process	0.704480588436127
+C28	WP_228480424.1	Biological Process	GO:0044260	cellular macromolecule metabolic process	0.683189034461975
+C28	WP_228480424.1	Biological Process	GO:0080090	regulation of primary metabolic process	0.617197155952454
+C28	WP_228480424.1	Biological Process	GO:0019222	regulation of metabolic process	0.608528256416321
+C28	WP_228480424.1	Biological Process	GO:0051171	regulation of nitrogen compound metabolic process	0.605962574481964
+C28	WP_228480424.1	Biological Process	GO:0060255	regulation of macromolecule metabolic process	0.599002122879028
+C28	WP_228480424.1	Biological Process	GO:0031323	regulation of cellular metabolic process	0.593823730945587
+C14	WP_003442465.1	Biological Process	GO:0071704	organic substance metabolic process	0.987446844577789
+C14	WP_003442465.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.98405796289444
+C14	WP_003442465.1	Biological Process	GO:0044238	primary metabolic process	0.973904311656952
+C14	WP_003442465.1	Biological Process	GO:0044237	cellular metabolic process	0.960069060325623
+C14	WP_003442465.1	Biological Process	GO:1901360	organic cyclic compound metabolic process	0.944387316703796
+C14	WP_003442465.1	Biological Process	GO:0006725	cellular aromatic compound metabolic process	0.931459426879883
+C14	WP_003442465.1	Biological Process	GO:0034641	cellular nitrogen compound metabolic process	0.870491147041321
+C14	WP_003442465.1	Biological Process	GO:0046483	heterocycle metabolic process	0.821558594703674
+C14	WP_003442465.1	Biological Process	GO:1901564	organonitrogen compound metabolic process	0.684431672096252
+C14	WP_003442465.1	Biological Process	GO:0043170	macromolecule metabolic process	0.646269142627716
+C14	WP_003442465.1	Biological Process	GO:0044249	cellular biosynthetic process	0.585668444633484
+C14	WP_003442465.1	Biological Process	GO:0090304	nucleic acid metabolic process	0.550816059112549
+C14	WP_003442465.1	Biological Process	GO:0006139	nucleobase-containing compound metabolic process	0.543934762477875
+C14	WP_003442465.1	Biological Process	GO:0009058	biosynthetic process	0.52428263425827
+C14	WP_003442465.1	Biological Process	GO:1901576	organic substance biosynthetic process	0.519687175750732
+C7	WP_023096605.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.919250130653381
+C7	WP_023096605.1	Biological Process	GO:0071704	organic substance metabolic process	0.90071439743042
+C7	WP_023096605.1	Biological Process	GO:0044238	primary metabolic process	0.849250674247742
+C7	WP_023096605.1	Biological Process	GO:0043170	macromolecule metabolic process	0.838786542415619
+C7	WP_023096605.1	Biological Process	GO:0044237	cellular metabolic process	0.742480993270874
+C7	WP_023096605.1	Biological Process	GO:1901564	organonitrogen compound metabolic process	0.643758177757263
+C7	WP_023096605.1	Biological Process	GO:0044260	cellular macromolecule metabolic process	0.602112829685211
+C7	WP_023096605.1	Biological Process	GO:0010467	gene expression	0.567726075649262
+C7	WP_023096605.1	Biological Process	GO:0046483	heterocycle metabolic process	0.506484508514404
+C15	WP_014930827.1	Biological Process	GO:0071704	organic substance metabolic process	0.610293686389923
+C15	WP_014930827.1	Biological Process	GO:0044238	primary metabolic process	0.603672087192535
+C15	WP_014930827.1	Biological Process	GO:0044237	cellular metabolic process	0.53903341293335
+C15	WP_014930827.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.532592236995697
+C9	WP_003430208.1	Biological Process	GO:0044237	cellular metabolic process	0.781687080860138
+C9	WP_003430208.1	Biological Process	GO:0071704	organic substance metabolic process	0.766094386577606
+C9	WP_003430208.1	Biological Process	GO:0043170	macromolecule metabolic process	0.6641646027565
+C9	WP_003430208.1	Biological Process	GO:0044238	primary metabolic process	0.645478129386902
+C9	WP_003430208.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.617447555065155
+C9	WP_003430208.1	Biological Process	GO:0044249	cellular biosynthetic process	0.565390527248383
+C9	WP_003430208.1	Biological Process	GO:0044260	cellular macromolecule metabolic process	0.553630292415619
+C9	WP_003430208.1	Biological Process	GO:0009058	biosynthetic process	0.548964023590088
+C8	WP_002757504.1	Biological Process	GO:0044237	cellular metabolic process	0.838939309120178
+C8	WP_002757504.1	Biological Process	GO:0071704	organic substance metabolic process	0.683048129081726
+C8	WP_002757504.1	Biological Process	GO:0055114	oxidation-reduction process	0.612630367279053
+C8	WP_002757504.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.589628994464874
+C10	WP_012951548.1	Biological Process	GO:0044237	cellular metabolic process	0.978225350379944
+C10	WP_012951548.1	Biological Process	GO:0009059	macromolecule biosynthetic process	0.974915325641632
+C10	WP_012951548.1	Biological Process	GO:0071704	organic substance metabolic process	0.974580585956574
+C10	WP_012951548.1	Biological Process	GO:0034645	cellular macromolecule biosynthetic process	0.973965406417847
+C10	WP_012951548.1	Biological Process	GO:1901576	organic substance biosynthetic process	0.97200882434845
+C10	WP_012951548.1	Biological Process	GO:0009058	biosynthetic process	0.971374452114105
+C10	WP_012951548.1	Biological Process	GO:0044249	cellular biosynthetic process	0.96991628408432
+C10	WP_012951548.1	Biological Process	GO:0034641	cellular nitrogen compound metabolic process	0.96926760673523
+C10	WP_012951548.1	Biological Process	GO:0043170	macromolecule metabolic process	0.96819543838501
+C10	WP_012951548.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.968137443065643
+C10	WP_012951548.1	Biological Process	GO:0044238	primary metabolic process	0.967293620109558
+C10	WP_012951548.1	Biological Process	GO:0044260	cellular macromolecule metabolic process	0.963512778282166
+C10	WP_012951548.1	Biological Process	GO:0010467	gene expression	0.95711624622345
+C10	WP_012951548.1	Biological Process	GO:0044271	cellular nitrogen compound biosynthetic process	0.951016783714294
+C10	WP_012951548.1	Biological Process	GO:0006518	peptide metabolic process	0.918687164783478
+C10	WP_012951548.1	Biological Process	GO:0006412	translation	0.914722502231598
+C10	WP_012951548.1	Biological Process	GO:0043043	peptide biosynthetic process	0.911680042743683
+C10	WP_012951548.1	Biological Process	GO:1901566	organonitrogen compound biosynthetic process	0.908291816711426
+C10	WP_012951548.1	Biological Process	GO:0043604	amide biosynthetic process	0.903699338436127
+C10	WP_012951548.1	Biological Process	GO:0043603	cellular amide metabolic process	0.891598701477051
+C10	WP_012951548.1	Biological Process	GO:1901564	organonitrogen compound metabolic process	0.883745610713959
+C10	WP_012951548.1	Biological Process	GO:0019538	protein metabolic process	0.872297167778015
+C10	WP_012951548.1	Biological Process	GO:0044267	cellular protein metabolic process	0.858192980289459
+C6	WP_003721260.1	Biological Process	GO:0071704	organic substance metabolic process	0.721296846866608
+C6	WP_003721260.1	Biological Process	GO:0044237	cellular metabolic process	0.715064167976379
+C6	WP_003721260.1	Biological Process	GO:0044249	cellular biosynthetic process	0.651097059249878
+C6	WP_003721260.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.650895655155182
+C6	WP_003721260.1	Biological Process	GO:0044238	primary metabolic process	0.639626204967499
+C6	WP_003721260.1	Biological Process	GO:0009058	biosynthetic process	0.638902723789215
+C6	WP_003721260.1	Biological Process	GO:1901576	organic substance biosynthetic process	0.607164621353149
+C6	WP_003721260.1	Biological Process	GO:0043170	macromolecule metabolic process	0.551267385482788
+C6	WP_003721260.1	Biological Process	GO:0034641	cellular nitrogen compound metabolic process	0.53604656457901
+C6	WP_003721260.1	Biological Process	GO:0006725	cellular aromatic compound metabolic process	0.517707049846649
+C6	WP_003721260.1	Biological Process	GO:0046483	heterocycle metabolic process	0.51354330778122
+C13	WP_002213821.1	Biological Process	GO:0071704	organic substance metabolic process	0.651633024215698
+C13	WP_002213821.1	Biological Process	GO:0044237	cellular metabolic process	0.64170503616333
+C13	WP_002213821.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.598021864891052
+C13	WP_002213821.1	Biological Process	GO:0044238	primary metabolic process	0.554997682571411
+C13	WP_002213821.1	Biological Process	GO:0043170	macromolecule metabolic process	0.504965722560883
+C7	WP_024082443.1	Biological Process	GO:0044237	cellular metabolic process	0.703173160552979
+C7	WP_024082443.1	Biological Process	GO:0071704	organic substance metabolic process	0.669624745845795
+C7	WP_024082443.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.667218148708344
+C7	WP_024082443.1	Biological Process	GO:0043170	macromolecule metabolic process	0.626882135868073
+C7	WP_024082443.1	Biological Process	GO:0044238	primary metabolic process	0.605120003223419
+C7	WP_024082443.1	Biological Process	GO:1901564	organonitrogen compound metabolic process	0.593275189399719
+C7	WP_024082443.1	Biological Process	GO:0044260	cellular macromolecule metabolic process	0.536163508892059
+C7	WP_024082443.1	Biological Process	GO:0019538	protein metabolic process	0.528923273086548
+C12	WP_023107239.1	Biological Process	GO:0044237	cellular metabolic process	0.903278589248657
+C12	WP_023107239.1	Biological Process	GO:0006807	nitrogen compound metabolic process	0.850294172763824
+C12	WP_023107239.1	Biological Process	GO:0034641	cellular nitrogen compound metabolic process	0.836363911628723
+C12	WP_023107239.1	Biological Process	GO:0043170	macromolecule metabolic process	0.836055934429169
+C12	WP_023107239.1	Biological Process	GO:0071704	organic substance metabolic process	0.811653971672058
+C12	WP_023107239.1	Biological Process	GO:0044238	primary metabolic process	0.747262358665466
+C12	WP_023107239.1	Biological Process	GO:0044260	cellular macromolecule metabolic process	0.735572516918182
+C12	WP_023107239.1	Biological Process	GO:0010467	gene expression	0.628874659538269
+C12	WP_023107239.1	Biological Process	GO:0034645	cellular macromolecule biosynthetic process	0.618425965309143
+C12	WP_023107239.1	Biological Process	GO:0009059	macromolecule biosynthetic process	0.617003440856934
+C12	WP_023107239.1	Biological Process	GO:0044271	cellular nitrogen compound biosynthetic process	0.566123485565186
+C12	WP_023107239.1	Biological Process	GO:0006725	cellular aromatic compound metabolic process	0.557178199291229
+C12	WP_023107239.1	Biological Process	GO:1901360	organic cyclic compound metabolic process	0.548579633235931
+C12	WP_023107239.1	Biological Process	GO:0043043	peptide biosynthetic process	0.546704292297363
+C12	WP_023107239.1	Biological Process	GO:0009058	biosynthetic process	0.538817226886749
+C12	WP_023107239.1	Biological Process	GO:0006412	translation	0.535121202468872
+C12	WP_023107239.1	Biological Process	GO:0046483	heterocycle metabolic process	0.529395282268524
+C12	WP_023107239.1	Biological Process	GO:1901576	organic substance biosynthetic process	0.528460741043091
+C12	WP_023107239.1	Biological Process	GO:0043604	amide biosynthetic process	0.523844540119171
+C12	WP_023107239.1	Biological Process	GO:0044249	cellular biosynthetic process	0.501019537448883
+C2	WP_012951232.1	Cellular Component	GO:0005737	cytoplasm	0.716389298439026
+C2	WP_003721261.1	Cellular Component	GO:0005737	cytoplasm	0.687859237194061
+C26	WP_023127442.1	Cellular Component	GO:0043229	intracellular organelle	0.677663505077362
+C26	WP_023127442.1	Cellular Component	GO:0043226	organelle	0.677650153636932
+C26	WP_023127442.1	Cellular Component	GO:0005634	nucleus	0.599702954292297
+C26	WP_023127442.1	Cellular Component	GO:0043231	intracellular membrane-bounded organelle	0.52970552444458
+C26	WP_023127442.1	Cellular Component	GO:0043227	membrane-bounded organelle	0.524452269077301
+C16	WP_021368246.1	Cellular Component	GO:0043229	intracellular organelle	0.657521963119507
+C16	WP_021368246.1	Cellular Component	GO:0043226	organelle	0.651922643184662
+C16	WP_021368246.1	Cellular Component	GO:0005737	cytoplasm	0.587544739246368
+C16	WP_021368246.1	Cellular Component	GO:0043227	membrane-bounded organelle	0.577694594860077
+C16	WP_021368246.1	Cellular Component	GO:0043231	intracellular membrane-bounded organelle	0.549790501594543
+C24	WP_023284987.1	Cellular Component	GO:0043227	membrane-bounded organelle	0.515560626983643
+C24	WP_023284987.1	Cellular Component	GO:0043231	intracellular membrane-bounded organelle	0.508883893489838
+C18	WP_000109454.1	Cellular Component	GO:0043229	intracellular organelle	0.734192907810211
+C18	WP_000109454.1	Cellular Component	GO:0043226	organelle	0.713033676147461
+C18	WP_000109454.1	Cellular Component	GO:0043227	membrane-bounded organelle	0.672016263008118
+C18	WP_000109454.1	Cellular Component	GO:0043231	intracellular membrane-bounded organelle	0.663632690906525
+C18	WP_000109454.1	Cellular Component	GO:0005737	cytoplasm	0.552666544914246
+C16	WP_021362725.1	Cellular Component	GO:0005737	cytoplasm	0.514372050762177
+C19	WP_023548967.1	Cellular Component	GO:0043229	intracellular organelle	0.98109358549118
+C19	WP_023548967.1	Cellular Component	GO:0043226	organelle	0.979429721832275
+C19	WP_023548967.1	Cellular Component	GO:0043231	intracellular membrane-bounded organelle	0.945116579532623
+C19	WP_023548967.1	Cellular Component	GO:0005634	nucleus	0.94426429271698
+C19	WP_023548967.1	Cellular Component	GO:0043227	membrane-bounded organelle	0.938003361225128
+C21	WP_087094533.1	Cellular Component	GO:0016020	membrane	0.998677909374237
+C21	WP_087094533.1	Cellular Component	GO:0016021	integral component of membrane	0.99166601896286
+C21	WP_087094533.1	Cellular Component	GO:0031224	intrinsic component of membrane	0.991039216518402
+C21	WP_087094533.1	Cellular Component	GO:0005886	plasma membrane	0.843482553958893
+C21	WP_087094533.1	Cellular Component	GO:0071944	cell periphery	0.784873604774475
+C16	WP_074046702.1	Cellular Component	GO:0043226	organelle	0.62009209394455
+C16	WP_074046702.1	Cellular Component	GO:0043229	intracellular organelle	0.613839626312256
+C16	WP_074046702.1	Cellular Component	GO:0005737	cytoplasm	0.611405849456787
+C16	WP_074046702.1	Cellular Component	GO:0043227	membrane-bounded organelle	0.563970565795898
+C16	WP_074046702.1	Cellular Component	GO:0043231	intracellular membrane-bounded organelle	0.53900134563446
+C25	WP_002737934.1	Cellular Component	GO:0005737	cytoplasm	0.899174571037293
+C17	WP_049956001.1	Cellular Component	GO:0043226	organelle	0.640734612941742
+C17	WP_049956001.1	Cellular Component	GO:0043229	intracellular organelle	0.638994753360748
+C17	WP_049956001.1	Cellular Component	GO:0043227	membrane-bounded organelle	0.608929991722107
+C17	WP_049956001.1	Cellular Component	GO:0043231	intracellular membrane-bounded organelle	0.589167356491089
+C19	WP_031645549.1	Cellular Component	GO:0043229	intracellular organelle	0.98580926656723
+C19	WP_031645549.1	Cellular Component	GO:0043226	organelle	0.984269261360168
+C19	WP_031645549.1	Cellular Component	GO:0043231	intracellular membrane-bounded organelle	0.939126014709473
+C19	WP_031645549.1	Cellular Component	GO:0043227	membrane-bounded organelle	0.931367158889771
+C19	WP_031645549.1	Cellular Component	GO:0005634	nucleus	0.914456844329834
+C19	WP_031645549.1	Cellular Component	GO:0043228	non-membrane-bounded organelle	0.549062609672546
+C19	WP_031645549.1	Cellular Component	GO:0043232	intracellular non-membrane-bounded organelle	0.548254370689392
+C28	WP_228482420.1	Cellular Component	GO:0043226	organelle	0.881918132305145
+C28	WP_228482420.1	Cellular Component	GO:0043227	membrane-bounded organelle	0.871092259883881
+C28	WP_228482420.1	Cellular Component	GO:0043229	intracellular organelle	0.830582201480866
+C28	WP_228482420.1	Cellular Component	GO:0043231	intracellular membrane-bounded organelle	0.801598370075226
+C28	WP_228482420.1	Cellular Component	GO:0016020	membrane	0.710261523723602
+C28	WP_228482420.1	Cellular Component	GO:0005737	cytoplasm	0.605105757713318
+C17	WP_023084221.1	Cellular Component	GO:0043227	membrane-bounded organelle	0.672232627868652
+C17	WP_023084221.1	Cellular Component	GO:0043229	intracellular organelle	0.65799343585968
+C17	WP_023084221.1	Cellular Component	GO:0043226	organelle	0.655885100364685
+C17	WP_023084221.1	Cellular Component	GO:0043231	intracellular membrane-bounded organelle	0.652946829795837
+C17	WP_023084221.1	Cellular Component	GO:0005634	nucleus	0.538498997688293
+C26	WP_003094501.1	Cellular Component	GO:0043226	organelle	0.546906292438507
+C26	WP_003094501.1	Cellular Component	GO:0043229	intracellular organelle	0.537990689277649
+C20	WP_037974544.1	Cellular Component	GO:0005737	cytoplasm	0.729235053062439
+C29	WP_244192637.1	Cellular Component	GO:0016020	membrane	0.661725401878357
+C28	WP_228489704.1	Cellular Component	GO:0043227	membrane-bounded organelle	0.753765881061554
+C28	WP_228489704.1	Cellular Component	GO:0043226	organelle	0.749737024307251
+C28	WP_228489704.1	Cellular Component	GO:0043231	intracellular membrane-bounded organelle	0.680374920368195
+C28	WP_228489704.1	Cellular Component	GO:0043229	intracellular organelle	0.663640916347504
+C22	WP_170863889.1	Cellular Component	GO:0043231	intracellular membrane-bounded organelle	0.753096103668213
+C22	WP_170863889.1	Cellular Component	GO:0005737	cytoplasm	0.736262261867523
+C22	WP_170863889.1	Cellular Component	GO:0043229	intracellular organelle	0.728631556034088
+C22	WP_170863889.1	Cellular Component	GO:0043227	membrane-bounded organelle	0.720661699771881
+C22	WP_170863889.1	Cellular Component	GO:0043226	organelle	0.701754629611969
+C17	WP_023103137.1	Cellular Component	GO:0043227	membrane-bounded organelle	0.64580899477005
+C17	WP_023103137.1	Cellular Component	GO:0043229	intracellular organelle	0.644463896751404
+C17	WP_023103137.1	Cellular Component	GO:0043226	organelle	0.643389284610748
+C17	WP_023103137.1	Cellular Component	GO:0043231	intracellular membrane-bounded organelle	0.627860188484192
+C17	WP_023103137.1	Cellular Component	GO:0005634	nucleus	0.524909913539887
+C28	WP_228480424.1	Cellular Component	GO:0043227	membrane-bounded organelle	0.792100846767426
+C28	WP_228480424.1	Cellular Component	GO:0043226	organelle	0.78591001033783
+C28	WP_228480424.1	Cellular Component	GO:0043231	intracellular membrane-bounded organelle	0.746302247047424
+C28	WP_228480424.1	Cellular Component	GO:0043229	intracellular organelle	0.725833475589752
+C14	WP_003442465.1	Cellular Component	GO:0005737	cytoplasm	0.908228874206543
+C7	WP_023096605.1	Cellular Component	GO:0005737	cytoplasm	0.859871327877045
+C11	WP_023464361.1	Cellular Component	GO:0016020	membrane	0.97977739572525
+C11	WP_023464361.1	Cellular Component	GO:0016021	integral component of membrane	0.868682861328125
+C11	WP_023464361.1	Cellular Component	GO:0031224	intrinsic component of membrane	0.819467067718506
+C11	WP_023464361.1	Cellular Component	GO:1902495	transmembrane transporter complex	0.809815108776093
+C11	WP_023464361.1	Cellular Component	GO:1990351	transporter complex	0.705745756626129
+C11	WP_023464361.1	Cellular Component	GO:0042597	periplasmic space	0.672114551067352
+C11	WP_023464361.1	Cellular Component	GO:0031975	envelope	0.657474517822266
+C11	WP_023464361.1	Cellular Component	GO:0071944	cell periphery	0.539100468158722
+C15	WP_014930827.1	Cellular Component	GO:0005737	cytoplasm	0.690156936645508
+C9	WP_003430208.1	Cellular Component	GO:0005737	cytoplasm	0.886780381202698
+C10	WP_012951548.1	Cellular Component	GO:0043232	intracellular non-membrane-bounded organelle	0.978807926177979
+C10	WP_012951548.1	Cellular Component	GO:0043229	intracellular organelle	0.978691756725311
+C10	WP_012951548.1	Cellular Component	GO:0043226	organelle	0.97428971529007
+C10	WP_012951548.1	Cellular Component	GO:0043228	non-membrane-bounded organelle	0.972246646881104
+C10	WP_012951548.1	Cellular Component	GO:0005840	ribosome	0.963491857051849
+C6	WP_003721260.1	Cellular Component	GO:0005737	cytoplasm	0.610535323619843
+C6	WP_003721260.1	Cellular Component	GO:0043229	intracellular organelle	0.5405033826828
+C6	WP_003721260.1	Cellular Component	GO:0043226	organelle	0.523568749427795
+C13	WP_002213821.1	Cellular Component	GO:0043226	organelle	0.57170307636261
+C13	WP_002213821.1	Cellular Component	GO:0043229	intracellular organelle	0.523173868656158
+C7	WP_024082443.1	Cellular Component	GO:0043226	organelle	0.73010128736496
+C7	WP_024082443.1	Cellular Component	GO:0043227	membrane-bounded organelle	0.709142684936523
+C7	WP_024082443.1	Cellular Component	GO:0043229	intracellular organelle	0.692818343639374
+C7	WP_024082443.1	Cellular Component	GO:0043231	intracellular membrane-bounded organelle	0.651331841945648
+C7	WP_024082443.1	Cellular Component	GO:0005576	extracellular region	0.543253302574158
+C4	WP_015313507.1	Molecular Function	GO:0043167	ion binding	0.870319187641144
+C4	WP_015313507.1	Molecular Function	GO:0043168	anion binding	0.776532053947449
+C4	WP_015313507.1	Molecular Function	GO:0032553	ribonucleotide binding	0.742164731025696
+C4	WP_015313507.1	Molecular Function	GO:0005524	ATP binding	0.726157486438751
+C4	WP_015313507.1	Molecular Function	GO:0097367	carbohydrate derivative binding	0.720423817634583
+C4	WP_015313507.1	Molecular Function	GO:0035639	purine ribonucleoside triphosphate binding	0.701320290565491
+C4	WP_015313507.1	Molecular Function	GO:0030554	adenyl nucleotide binding	0.696577906608582
+C4	WP_015313507.1	Molecular Function	GO:0032559	adenyl ribonucleotide binding	0.69543445110321
+C4	WP_015313507.1	Molecular Function	GO:0017076	purine nucleotide binding	0.680705726146698
+C4	WP_015313507.1	Molecular Function	GO:0032555	purine ribonucleotide binding	0.673716545104981
+C4	WP_015313507.1	Molecular Function	GO:0000166	nucleotide binding	0.66613495349884
+C4	WP_015313507.1	Molecular Function	GO:1901265	nucleoside phosphate binding	0.664774656295776
+C4	WP_015313507.1	Molecular Function	GO:0008144	drug binding	0.643084704875946
+C4	WP_015313507.1	Molecular Function	GO:1901363	heterocyclic compound binding	0.598222017288208
+C4	WP_015313507.1	Molecular Function	GO:0097159	organic cyclic compound binding	0.597374379634857
+C4	WP_015313507.1	Molecular Function	GO:0043169	cation binding	0.586490213871002
+C4	WP_015313507.1	Molecular Function	GO:0036094	small molecule binding	0.560056447982788
+C4	WP_015313507.1	Molecular Function	GO:0046872	metal ion binding	0.554509997367859
+C5	WP_002211718.1	Molecular Function	GO:0043167	ion binding	0.763593137264252
+C5	WP_002211718.1	Molecular Function	GO:1901363	heterocyclic compound binding	0.557963848114014
+C5	WP_002211718.1	Molecular Function	GO:0097159	organic cyclic compound binding	0.556055247783661
+C5	WP_002211718.1	Molecular Function	GO:0046872	metal ion binding	0.506490170955658
+C1	WP_002211720.1	Molecular Function	GO:1901363	heterocyclic compound binding	0.822316229343414
+C1	WP_002211720.1	Molecular Function	GO:0097159	organic cyclic compound binding	0.821289479732513
+C1	WP_002211720.1	Molecular Function	GO:0043167	ion binding	0.556232035160065
+C3	WP_061105325.1	Molecular Function	GO:0043167	ion binding	0.738668203353882
+C3	WP_061105325.1	Molecular Function	GO:1901363	heterocyclic compound binding	0.60238128900528
+C3	WP_061105325.1	Molecular Function	GO:0097159	organic cyclic compound binding	0.600952327251434
+C3	WP_023552297.1	Molecular Function	GO:0043167	ion binding	0.509993135929108
+C3	WP_039194677.1	Molecular Function	GO:0043167	ion binding	0.514884352684021
+C0	WP_002211721.1	Molecular Function	GO:0016740	transferase activity	0.637825727462769
+C0	WP_002211721.1	Molecular Function	GO:0043167	ion binding	0.61211234331131
+C23	WP_006248181.1	Molecular Function	GO:0043167	ion binding	0.651352763175964
+C23	WP_006248181.1	Molecular Function	GO:0046872	metal ion binding	0.642259240150452
+C23	WP_006248181.1	Molecular Function	GO:0043169	cation binding	0.641619801521301
+C26	WP_023127442.1	Molecular Function	GO:0003676	nucleic acid binding	0.736745238304138
+C26	WP_023127442.1	Molecular Function	GO:1901363	heterocyclic compound binding	0.647494435310364
+C26	WP_023127442.1	Molecular Function	GO:0097159	organic cyclic compound binding	0.643355190753937
+C16	WP_021368246.1	Molecular Function	GO:1901363	heterocyclic compound binding	0.97429096698761
+C16	WP_021368246.1	Molecular Function	GO:0097159	organic cyclic compound binding	0.973806202411652
+C16	WP_021368246.1	Molecular Function	GO:0003676	nucleic acid binding	0.905175387859345
+C24	WP_023284987.1	Molecular Function	GO:0097159	organic cyclic compound binding	0.784233152866364
+C24	WP_023284987.1	Molecular Function	GO:1901363	heterocyclic compound binding	0.781386613845825
+C24	WP_023284987.1	Molecular Function	GO:0003676	nucleic acid binding	0.772417008876801
+C24	WP_023284987.1	Molecular Function	GO:0003677	DNA binding	0.770861566066742
+C19	WP_023548967.1	Molecular Function	GO:0003676	nucleic acid binding	0.970921695232391
+C19	WP_023548967.1	Molecular Function	GO:1901363	heterocyclic compound binding	0.964419901371002
+C19	WP_023548967.1	Molecular Function	GO:0097159	organic cyclic compound binding	0.963207542896271
+C19	WP_023548967.1	Molecular Function	GO:0003677	DNA binding	0.893218040466309
+C21	WP_087094533.1	Molecular Function	GO:0022857	transmembrane transporter activity	0.606771171092987
+C16	WP_074046702.1	Molecular Function	GO:1901363	heterocyclic compound binding	0.870722532272339
+C16	WP_074046702.1	Molecular Function	GO:0097159	organic cyclic compound binding	0.868826389312744
+C16	WP_074046702.1	Molecular Function	GO:0003676	nucleic acid binding	0.769077718257904
+C16	WP_074046702.1	Molecular Function	GO:0003677	DNA binding	0.732705593109131
+C16	WP_074046702.1	Molecular Function	GO:0043167	ion binding	0.528870582580566
+C19	WP_031645549.1	Molecular Function	GO:0003676	nucleic acid binding	0.980472147464752
+C19	WP_031645549.1	Molecular Function	GO:1901363	heterocyclic compound binding	0.97237241268158
+C19	WP_031645549.1	Molecular Function	GO:0097159	organic cyclic compound binding	0.971040844917297
+C19	WP_031645549.1	Molecular Function	GO:0003677	DNA binding	0.885802865028381
+C26	WP_003094501.1	Molecular Function	GO:0003676	nucleic acid binding	0.758939862251282
+C26	WP_003094501.1	Molecular Function	GO:1901363	heterocyclic compound binding	0.712078750133514
+C26	WP_003094501.1	Molecular Function	GO:0097159	organic cyclic compound binding	0.707740068435669
+C20	WP_037974544.1	Molecular Function	GO:0043167	ion binding	0.904573142528534
+C20	WP_037974544.1	Molecular Function	GO:1901363	heterocyclic compound binding	0.895649254322052
+C20	WP_037974544.1	Molecular Function	GO:0097159	organic cyclic compound binding	0.891122162342072
+C20	WP_037974544.1	Molecular Function	GO:0016787	hydrolase activity	0.700608670711517
+C20	WP_037974544.1	Molecular Function	GO:0036094	small molecule binding	0.699847638607025
+C20	WP_037974544.1	Molecular Function	GO:0046872	metal ion binding	0.651432693004608
+C20	WP_037974544.1	Molecular Function	GO:1901265	nucleoside phosphate binding	0.648489654064178
+C20	WP_037974544.1	Molecular Function	GO:0000166	nucleotide binding	0.64698326587677
+C20	WP_037974544.1	Molecular Function	GO:0043169	cation binding	0.645665943622589
+C20	WP_037974544.1	Molecular Function	GO:0003677	DNA binding	0.541642367839813
+C29	WP_244192637.1	Molecular Function	GO:0016787	hydrolase activity	0.689678609371185
+C14	WP_003442465.1	Molecular Function	GO:0016740	transferase activity	0.679447591304779
+C7	WP_023096605.1	Molecular Function	GO:0043167	ion binding	0.602094113826752
+C7	WP_023096605.1	Molecular Function	GO:0140096	catalytic activity, acting on a protein	0.583898842334747
+C7	WP_023096605.1	Molecular Function	GO:0008233	peptidase activity	0.569436013698578
+C7	WP_023096605.1	Molecular Function	GO:0070011	peptidase activity, acting on L-amino acid peptides	0.533871531486511
+C15	WP_014930827.1	Molecular Function	GO:0032553	ribonucleotide binding	0.928570449352264
+C15	WP_014930827.1	Molecular Function	GO:0036094	small molecule binding	0.927378654479981
+C15	WP_014930827.1	Molecular Function	GO:0043168	anion binding	0.893436551094055
+C15	WP_014930827.1	Molecular Function	GO:0000166	nucleotide binding	0.882590055465698
+C15	WP_014930827.1	Molecular Function	GO:1901265	nucleoside phosphate binding	0.88235992193222
+C15	WP_014930827.1	Molecular Function	GO:0097367	carbohydrate derivative binding	0.866014719009399
+C15	WP_014930827.1	Molecular Function	GO:0032559	adenyl ribonucleotide binding	0.85111939907074
+C15	WP_014930827.1	Molecular Function	GO:0032555	purine ribonucleotide binding	0.842867195606232
+C15	WP_014930827.1	Molecular Function	GO:0008144	drug binding	0.825143754482269
+C15	WP_014930827.1	Molecular Function	GO:0030554	adenyl nucleotide binding	0.823666274547577
+C15	WP_014930827.1	Molecular Function	GO:1901363	heterocyclic compound binding	0.822304606437683
+C15	WP_014930827.1	Molecular Function	GO:0043167	ion binding	0.820266246795654
+C15	WP_014930827.1	Molecular Function	GO:0097159	organic cyclic compound binding	0.818068623542786
+C15	WP_014930827.1	Molecular Function	GO:0017076	purine nucleotide binding	0.813399910926819
+C15	WP_014930827.1	Molecular Function	GO:0005524	ATP binding	0.812917828559876
+C15	WP_014930827.1	Molecular Function	GO:0035639	purine ribonucleoside triphosphate binding	0.793092370033264
+C7	WP_024082443.1	Molecular Function	GO:0046872	metal ion binding	0.597638666629791
+C7	WP_024082443.1	Molecular Function	GO:0043169	cation binding	0.596156179904938
+C7	WP_024082443.1	Molecular Function	GO:0043167	ion binding	0.5934739112854
+C12	WP_023107239.1	Molecular Function	GO:0003735	structural constituent of ribosome	0.684209227561951
+C12	WP_023107239.1	Molecular Function	GO:1901363	heterocyclic compound binding	0.509490072727203
